@@ -1,1 +1,1 @@
-# searchable-product-datatable
+# Searchable Product Data Table
